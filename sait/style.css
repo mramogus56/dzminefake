@@ -1,0 +1,11 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: rgb(63, 61, 61); /* Цвет фона веб-страницы */
+    color: #FD98FB; /* Цвет основного текста */ 
+}
+h1 {
+    color: #FFFFFF; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
